@@ -43,7 +43,7 @@ const config = {
 ```
 ---
 
-## 🧪 Live Demo
+## 🧪 Demo
 
 You can try a full working example here:
 
