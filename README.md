@@ -40,3 +40,16 @@ const config = {
     // optional configuration
   }
 };
+```
+---
+
+## 🧪 Live Demo
+
+You can try a full working example here:
+
+🔗 [View Full Example (basic.html)](https://github.com/vitalik23/chartjs-waterfall-plugin/tree/main/examples/basic.html)
+
+> 💡 Open this file in your browser to see the waterfall chart in action.
+
+---
+
